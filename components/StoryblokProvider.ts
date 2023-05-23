@@ -2,7 +2,7 @@
 import { storyblokInit, apiPlugin } from "@storyblok/react/rsc";
 
 /** 2. Import your components */
-import Page from "../components/Page";
+import Page from "./Page";
 
 /** 3. Initialize it as usual */
 storyblokInit({
